@@ -11,9 +11,13 @@ body {
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-    margin: 20px auto;
+    margin-top: 15%;
+    margin-left: 35%;
     width: 80%;
     max-width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 h1 {
